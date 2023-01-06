@@ -5,8 +5,7 @@
 Lexend is a variable typeface designed by Bonnie Shaver-Troup and Thomas Jockin in 2018.
 Applying the Shaver-Troup Individually Optimal Text Formation Factors, studies have found readers instantaneously improve their reading fluency.
 
-Lexend was expanded to Arabic in July 2021. The Shaver-Troup Formulation was applied to Arabic with advisement from Arabic Typeface Designer, Nadine Chahine.
-See <https://github.com/ThomasJockin/readexpro>.
+
 
 Lexend was turned into a variable font with weight axis (Thin to Black) by Font Bureau in March 2021.
 
@@ -36,6 +35,7 @@ See <https://github.com/ThomasJockin/readexpro>
 
 * Via the website's [download form](https://www.lexend.com/#download)
 * Directly from [GitHub](https://github.com/ThomasJockin/lexend/tree/master/fonts)
+* From [Google Fonts](https://fonts.google.com/download?family=Lexend)
 * From [CTAN](https://www.ctan.org/pkg/lexend): `tlmgr install lexend`
 * From [Homebrew](https://brew.sh/): `brew cask install font-lexend-deca`
 
